@@ -10,3 +10,5 @@
 ### ✅ Clone minecraft [clone-minecraft](https://clone-minecraft.vercel.app/)
 
 ### ✅ Pizzara online [canvas-draw-react](https://virtual-board.vercel.app/)
+
+### ✅ Babel Verbs [Babel verbs](https://babel-verbs.vercel.app/)
