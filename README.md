@@ -9,4 +9,4 @@
 
 ### ✅ Clone minecraft [clone-minecraft](https://clone-minecraft.vercel.app/)
 
-### ✅ Pizzara online [canvas-draw-react](https://canvas-draw-react.vercel.app/)
+### ✅ Pizzara online [canvas-draw-react](https://virtual-board.vercel.app/)
