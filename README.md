@@ -1,2 +1,3 @@
 # ¡Hey 👋! Soy Edgar 👨🏻‍💻
-![chrome-capture-2023-6-16](https://github.com/Edgarmejiav/Edgarmejiav/assets/35704346/551f8eaa-bc16-4e3f-995d-2b2c6d289b03)
+
+![chrome-capture-2023-6-16 (1)](https://github.com/Edgarmejiav/Edgarmejiav/assets/35704346/3be453e7-d215-439f-8d54-f67fb2755fd3)
