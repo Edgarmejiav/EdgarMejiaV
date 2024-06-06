@@ -12,13 +12,19 @@
 </a>
 </div>
 
-## Redes sociales : 🌎
+## 🌎 Redes sociales :
 
-  <a href="https://www.linkedin.com/in/legamejiav/">
+<a href="https://www.linkedin.com/in/legamejiav/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-## Lenguajes y tecnologias : 🚀
+## 🤝 Colaboraciones :
+
+¡Estoy abierto a colaboraciones interesantes! Si tienes un proyecto interesante en mente o si crees que puedo contribuir
+a tu equipo, no dudes en contactarme. Estoy dispuesto a explorar nuevas oportunidades y aportar mis habilidades a
+proyectos innovadores.
+
+## 🚀 Lenguajes y tecnologias :
 
 <p align="center">
   <a href="https://www.linkedin.com/in/legamejiav/">
