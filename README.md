@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/legamejiav/" target="_blank" >
-<img src="https://avatars.githubusercontent.com/u/35704346?v=4"  style="margin-top: 50px" height="90px" width="auto" /> 
+<img src="https://avatars.githubusercontent.com/u/35704346?v=4"  style="margin-top: 50px; margin-bottom: -40px; border-radius: 50%" height="90px" width="auto" /> 
   </a>
 <h1>
 ¡Hey 👋! Soy Edgar
