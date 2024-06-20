@@ -16,7 +16,16 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edgarmejiav&theme=blueberry&exclude=CSS,ShaderLab" />
 </div>
 
+<!-- Social Media -->
+<p align="center">
+    <a href="https://edgarmejiav.vercel.app" target="_blank">
+        <img alt="edgarmejiav Web" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/legamejiav/" target="_blank">
+        <img alt="edgarmejiav LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    </a>
 
+</p>
 
 
 
