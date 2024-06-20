@@ -3,7 +3,7 @@
 <img src="https://avatars.githubusercontent.com/u/35704346?v=4"  style="margin-top: 50px" height="90px" width="auto" /> 
   </a>
 <h1>
-¡Hey 👋! Soy Edgar 👨🏻‍💻
+¡Hey!👋 Soy Edgar 👨🏻‍💻
 </h1>
 <a  href="https://edgarmejiav.vercel.app/" target="_blank">
 
