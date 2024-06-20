@@ -27,6 +27,12 @@
 
 </p>
 
+<div align="center">
+<img alt="Language" src="https://img.shields.io/github/languages/top/edgarmejiav/edgarmejiav-web?style=flat-square"/>
+<img alt="Language" src="https://img.shields.io/github/languages/top/edgarmejiav/time-clock?style=flat-square"/>
+<img alt="Language" src="https://img.shields.io/github/languages/top/edgarmejiav/lega-yt?style=flat-square"/>
+<img alt="Language" src="https://img.shields.io/github/languages/top/edgarmejiav/spotify-clone?style=flat-square"/>
+</div>
 
 
 # 🤝 Colaboraciones :
