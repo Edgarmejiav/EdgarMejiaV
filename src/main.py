@@ -1,3 +1,4 @@
+# code from  https://github.com/SergioRibera/
 from os.path import abspath
 
 from getdata import get_all_by_lang, replace_lang
