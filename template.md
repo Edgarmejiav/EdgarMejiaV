@@ -1,9 +1,13 @@
+<div align="left">
+@LANGUAGES
+</div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/legamejiav/" target="_blank" >
 <img src="https://avatars.githubusercontent.com/u/35704346?v=4"  style="margin-top: 50px; margin-bottom: -40px; border-radius: 50%" height="90px" width="auto" /> 
   </a>
 <h1>
-¡Hey 👋! Soy Edgar
+@ABOUT_HEADER
 </h1>
 
 </div>
@@ -35,13 +39,11 @@
 </div>
 
 
-# 🤝 Colaboraciones :
+# 🤝 @ABOUT_COLLABORATIONS :
 
-**¡Estoy abierto a colaboraciones interesantes! Si tienes un proyecto interesante en mente o si crees que puedo contribuir
-a tu equipo, no dudes en contactarme. Estoy dispuesto a explorar nuevas oportunidades y aportar mis habilidades a
-proyectos innovadores.**
+**@ABOUT_COLLDES**
 
-# 🚀 Lenguajes y tecnologias :
+# 🚀 @ABOUT_SKILL :
 
 <p align="center">
   <a href="https://www.linkedin.com/in/legamejiav/">
